@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.cloudrancher: DEBUG
+template: Good Day, %s!
+defaultName: Eric
